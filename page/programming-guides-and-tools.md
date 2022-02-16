@@ -1,4 +1,4 @@
-31.01.2022
+Jan 31, 2022
 
 # (Mostly free) guides and tools for programmers (and those who want to learn programming)
 Learning & creating awesome projects with the programming language of your choice!

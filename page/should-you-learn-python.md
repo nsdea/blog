@@ -1,4 +1,4 @@
-31.01.2022
+Jan 31, 2022
 
 # Should YOU learn Python?
 Instead of focusing on the pros & cons, let's discuss **projects and reasons you should learn Python for**!
